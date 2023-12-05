@@ -1,2 +1,2 @@
 # Pullnumber
-bir siteden numara ve İsim çeken python Scripti 
+herhani bir siteden numara ve İsim çeken python Scripti 
